@@ -1,0 +1,9 @@
+{
+  "name": "chaos-seed-guardrails-linting",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "acorn": "8.16.0",
+    "acorn-walk": "8.3.4"
+  }
+}
